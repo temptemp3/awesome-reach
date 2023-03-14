@@ -10,4 +10,5 @@ List of alphabetic awesome reach opensource repos.
 * [Reach DAO](https://github.com/Apostrophe-Corp/Reach-DAO) Greenhouse Hack 2 Reach DAO
 * [P2P Finance](https://github.com/Apostrophe-Corp/P2PFinance/tree/main/frontend/src/contracts) Decentralized loan platform
 * [Lottery](https://github.com/Apostrophe-Corp/Lottery-DApp) Lottery dApp
+* [Reach-safe Math](https://github.com/xBacked-DAO/reach-safe-math) OpenZepplin inspired reach safe math module
 * *next*
