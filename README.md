@@ -9,4 +9,5 @@ List of alphabetic awesome reach opensource repos.
 * [Blackjack](https://github.com/Apostrophe-Corp/Blackjack/tree/main/v2.1) Blackjack
 * [Reach DAO](https://github.com/Apostrophe-Corp/Reach-DAO) Greenhouse Hack 2 Reach DAO
 * [P2P Finance](https://github.com/Apostrophe-Corp/P2PFinance/tree/main/frontend/src/contracts) Decentralized loan platform
+* [Lottery](https://github.com/Apostrophe-Corp/Lottery-DApp) Lottery dApp
 * *next*
