@@ -11,5 +11,5 @@ List of alphabetic awesome reach opensource repos.
 * [P2P Finance](https://github.com/Apostrophe-Corp/P2PFinance/tree/main/frontend/src/contracts) Decentralized loan platform
 * [Lottery](https://github.com/Apostrophe-Corp/Lottery-DApp) Lottery dApp
 * [Reach-safe Math](https://github.com/xBacked-DAO/reach-safe-math) OpenZepplin inspired reach safe math module
-* [Staking Master Chef](https://github.com/xBacked-DAO/public-contracts/tree/main/staking) Master Chef Staking (xBacked)
+* [Staking Master Chef](https://github.com/xBacked-DAO/public-contracts/tree/main/staking) Master Chef Staking (xBacked) *missing utils*
 * *next*
