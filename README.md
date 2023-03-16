@@ -14,4 +14,5 @@ List of alphabetic awesome reach opensource repos.
 * [Staking Master Chef](https://github.com/xBacked-DAO/public-contracts/tree/main/staking) Master Chef Staking (xBacked) *missing utils*
 * [ZestBloom Reverse Sale](https://github.com/ZestBloom/reverse) Traditional and decreasing sale contract available on [ZestBloom Marketplace](https://zestbloom.com/marketplace/)
 * [ZestBloom Auction](https://github.com/ZestBloom/auction) Auction contract available on [Grid App](https://grid.zestbloom.com/)
+* [ZestBloom Offer](https://github.com/ZestBloom/offer) Offer contract
 * *next*
