@@ -12,5 +12,6 @@ List of alphabetic awesome reach opensource repos.
 * [Lottery](https://github.com/Apostrophe-Corp/Lottery-DApp) Lottery dApp
 * [Reach-safe Math](https://github.com/xBacked-DAO/reach-safe-math) OpenZepplin inspired reach safe math module
 * [Staking Master Chef](https://github.com/xBacked-DAO/public-contracts/tree/main/staking) Master Chef Staking (xBacked) *missing utils*
-* [ZestBloom Reverse Sale](https://github.com/ZestBloom/reverse) Traditional and decreasing sale contract available on ZestBloom Marketplace
+* [ZestBloom Reverse Sale](https://github.com/ZestBloom/reverse) Traditional and decreasing sale contract available on [ZestBloom Marketplace](https://zestbloom.com/marketplace/)
+* [ZestBloom Auction](https://github.com/ZestBloom/auction) Auction contract available on [Grid App](https://grid.zestbloom.com/)
 * *next*
