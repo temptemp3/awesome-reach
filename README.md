@@ -35,4 +35,5 @@ List of alphabetic awesome reach opensource repos.
 * [Gashapon](https://github.com/reach-sh/alloy-smart-contracts/blob/main/gashapon/index.rsh) Shuffle like NFT gumball machine
 * [Announcer](https://github.com/reach-sh/alloy-smart-contracts/blob/main/grants/liquidity-grant/announcer.rsh) DAO building block, liquidity announcer
 * [Vending Machine](https://github.com/reach-sh/alloy-smart-contracts/tree/main/grants/vending-machine) DAO building block, vending machine grant
+* [Humble SDK](https://github.com/reach-sh/humble-sdk/tree/main/src/build) Humble Swap SDK, *participant backend*
 * *next*
