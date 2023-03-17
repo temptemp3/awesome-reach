@@ -1,6 +1,6 @@
 # Awesome Reach
 
-List of alphabetic awesome reach opensource repos, and learning exercises and challenges.
+List of alphabetic awesome reach opensource repos, and learning exercises and challenges. Monetary incentives for challenges may be expired.
 
 ## learning
 
