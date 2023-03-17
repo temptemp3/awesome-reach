@@ -12,4 +12,4 @@ Video: [The Vault Challenge (YouTube)](https://www.youtube.com/watch?v=loNxrgahO
 
 * [Challenge: NFT Raffle](https://github.com/temptemp3/awesome-reach/blob/main/challenge/challenge-nft-raffle.pdf)
 
-Vide: [NFT Raffle (YouTube)](https://youtu.be/vqZGqPtIrro)
+Video: [NFT Raffle (YouTube)](https://youtu.be/vqZGqPtIrro)
