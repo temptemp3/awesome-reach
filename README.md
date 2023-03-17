@@ -6,8 +6,8 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 
 * [quickstart](https://docs.reach.sh/quickstart/)
 * [tutorial](https://docs.reach.sh/tut/) 
-* Vault
-* NFT Raffle
+* [Vault](https://github.com/temptemp3/awesome-reach/blob/main/challenge/challenge-vault.pdf)
+* [NFT Raffle](https://github.com/temptemp3/awesome-reach/blob/main/challenge/challenge-nft-raffle.pdf)
 
 ## opensource
 
