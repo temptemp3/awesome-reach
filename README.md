@@ -21,4 +21,5 @@ List of alphabetic awesome reach opensource repos.
 * [ZestBloom Lockbox](https://github.com/ZestBloom/lockbox) Lock token A with token B
 * [ZestBloom Relay](https://github.com/ZestBloom/relay) Smart relay
 * [KotH](https://github.com/ZestBloom/koth) Multi token bidding toy program
+* [ZestBloom Oracle](https://github.com/ZestBloom/oracle/settings) Price oracle
 * *next*
