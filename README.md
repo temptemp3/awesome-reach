@@ -19,7 +19,7 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 
 * [0xAuction](https://github.com/Apostrophe-Corp/0xAuction/tree/beta/src/contracts) Auction for 0xAuction platform
 * [ABSwap](https://github.com/ZestBloom/swap) Swap token B for token A
-* [Blackjack](https://github.com/Apostrophe-Corp/Blackjack/tree/main/v2.1) Blackjack
+* 🃏 [Blackjack](https://github.com/Apostrophe-Corp/Blackjack/tree/main/v2.1) Blackjack
 * [Dice Floor](https://github.com/ZestBloom/dice-floor) Shuffle like contrct using in AlienTourism and Archirand NFT shuffle event
 * [Dice](https://github.com/ZestBloom/dice) Shuffle like contrct using in AlienTourism and Archirand NFT shuffle event
 * [ERC-721 Auction Example](https://github.com/nstanford5/reach-ERC721) Example using ERC-721 in auction
@@ -56,5 +56,5 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
 * [Free Raffle](https://github.com/nstanford5/raffle-free) Free NfT Raffle
 * [Free Raffle for Grid App](https://github.com/temptemp3/raffle-free/blob/master/interface.rsh) Grid ready free raffle
-* [Reach Blackjack](https://github.com/nstanford5/Reach-Blackjack) American Blackjack from Better Tomorrow Australian Bounty Hack
+* 🃏 [Reach Blackjack](https://github.com/nstanford5/Reach-Blackjack) American Blackjack from Better Tomorrow Australian Bounty Hack
 * *next*
