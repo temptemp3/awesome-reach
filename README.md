@@ -30,4 +30,5 @@ List of alphabetic awesome reach opensource repos.
 * [ZestBloom Reverse Sale Calcs](https://github.com/ZestBloom/reverse-floor-calcs) Some calculations for reverse sale contract
 * [ZestBloom Reverse Sale](https://github.com/ZestBloom/reverse) Traditional and decreasing sale contract available on [ZestBloom Marketplace](https://zestbloom.com/marketplace/)
 * [Alloy DAO](https://github.com/reach-sh/alloy-smart-contracts/tree/main/grants/alloy-dao) DAO building block, proposals
+* [Cometa Staking](https://github.com/MetaLabsOG/cometa-lm-contract) Synthetix staking contract
 * *next*
