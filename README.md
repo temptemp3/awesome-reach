@@ -37,4 +37,6 @@ List of alphabetic awesome reach opensource repos.
 * [Vending Machine](https://github.com/reach-sh/alloy-smart-contracts/tree/main/grants/vending-machine) DAO building block, vending machine grant
 * [Humble SDK](https://github.com/reach-sh/humble-sdk/tree/main/src/build) Humble Swap SDK, *participant backend*
 * [Governance Staking](https://github.com/reach-sh/governance/tree/main/v2/staking) Governance V2 Staking
+* [Share Manager](https://github.com/cooperativ-labs/share-manager-contract-algorand) Share Manager
+* [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
 * *next*
