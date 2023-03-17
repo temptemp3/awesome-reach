@@ -24,4 +24,5 @@ List of alphabetic awesome reach opensource repos.
 * [ZestBloom Oracle](https://github.com/ZestBloom/oracle/settings) Price oracle
 * [ABSwap](https://github.com/ZestBloom/swap) Swap token B for token A
 * [NFT Drop](https://github.com/ZestBloom/nftdrop) Drop ASA before optin
+* [GRID](https://github.com/ZestBloom/grid-cid) Smart reference with counter
 * *next*
