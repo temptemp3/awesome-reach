@@ -23,4 +23,5 @@ List of alphabetic awesome reach opensource repos.
 * [KotH](https://github.com/ZestBloom/koth) Multi token bidding toy program
 * [ZestBloom Oracle](https://github.com/ZestBloom/oracle/settings) Price oracle
 * [ABSwap](https://github.com/ZestBloom/swap) Swap token B for token A
+* [NFT Drop](https://github.com/ZestBloom/nftdrop) Drop ASA before optin
 * *next*
