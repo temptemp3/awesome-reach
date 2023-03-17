@@ -25,4 +25,6 @@ List of alphabetic awesome reach opensource repos.
 * [ABSwap](https://github.com/ZestBloom/swap) Swap token B for token A
 * [NFT Drop](https://github.com/ZestBloom/nftdrop) Drop ASA before optin
 * [GRID](https://github.com/ZestBloom/grid-cid) Smart reference with counter
+* [Vesting](https://github.com/ZestBloom/vesting) Vesting contract
+* [Vest](https://github.com/ZestBloom/vest) Vesting contract
 * *next*
