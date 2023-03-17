@@ -54,4 +54,6 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [Governance Staking](https://github.com/reach-sh/governance/tree/main/v2/staking) Governance V2 Staking
 * [Share Manager](https://github.com/cooperativ-labs/share-manager-contract-algorand) Share Manager
 * [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
+* [Free Raffle](https://github.com/nstanford5/raffle-free) Free NfT Raffle
+* [Free Raffle (Grid)](https://github.com/temptemp3/raffle-free/blob/master/interface.rsh) Grid ready free raffle
 * *next*
