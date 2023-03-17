@@ -36,4 +36,5 @@ List of alphabetic awesome reach opensource repos.
 * [Announcer](https://github.com/reach-sh/alloy-smart-contracts/blob/main/grants/liquidity-grant/announcer.rsh) DAO building block, liquidity announcer
 * [Vending Machine](https://github.com/reach-sh/alloy-smart-contracts/tree/main/grants/vending-machine) DAO building block, vending machine grant
 * [Humble SDK](https://github.com/reach-sh/humble-sdk/tree/main/src/build) Humble Swap SDK, *participant backend*
+* [Governance Staking](https://github.com/reach-sh/governance/tree/main/v2/staking) Governance V2 Staking
 * *next*
