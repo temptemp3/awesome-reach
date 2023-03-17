@@ -1,6 +1,8 @@
 # Awesome Reach
 
-List of alphabetic awesome reach opensource repos.
+List of alphabetic awesome reach opensource repos, and learning exercises and challenges.
+
+## opensource
 
 * [0xAuction](https://github.com/Apostrophe-Corp/0xAuction/tree/beta/src/contracts) Auction for 0xAuction platform
 * [ABSwap](https://github.com/ZestBloom/swap) Swap token B for token A
@@ -40,3 +42,14 @@ List of alphabetic awesome reach opensource repos.
 * [Share Manager](https://github.com/cooperativ-labs/share-manager-contract-algorand) Share Manager
 * [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
 * *next*
+
+## learning
+
+* [quickstart](https://docs.reach.sh/quickstart/)
+* [tutorial](https://docs.reach.sh/tut/) 
+* Vault
+* NFT Raffle
+
+
+
+
