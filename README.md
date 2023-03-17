@@ -8,7 +8,11 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [tutorial](https://docs.reach.sh/tut/) 
 * [10 days of blockchain (YouTube)](https://www.youtube.com/playlist?list=PLcLMSci1ZoPt9kjuRunR3H3cO0yKjfOto)
 * [Challenge: Vault](https://github.com/temptemp3/awesome-reach/blob/main/challenge/challenge-vault.pdf)
+* [The Vault Challenge (YouTube)](https://www.youtube.com/watch?v=loNxrgahOc8)
 * [Challenge: NFT Raffle](https://github.com/temptemp3/awesome-reach/blob/main/challenge/challenge-nft-raffle.pdf)
+* [NFT Raffle (YouTube)](https://youtu.be/vqZGqPtIrro)
+* [NFT Auction](https://youtu.be/LBQrQo_PfiM)
+* [RSVP Dapp](https://youtu.be/d-RBKAiifps)
 
 ## opensource
 
