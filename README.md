@@ -56,4 +56,5 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
 * [Free Raffle](https://github.com/nstanford5/raffle-free) Free NfT Raffle
 * [Free Raffle for Grid App](https://github.com/temptemp3/raffle-free/blob/master/interface.rsh) Grid ready free raffle
+* [Reach Blackjack](https://github.com/nstanford5/Reach-Blackjack) American Blackjack from Better Tomorrow Australian Bounty Hack
 * *next*
