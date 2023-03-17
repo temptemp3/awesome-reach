@@ -20,4 +20,5 @@ List of alphabetic awesome reach opensource repos.
 * [ZestBloom Reverse Sale Calcs](https://github.com/ZestBloom/reverse-floor-calcs) Some calculations for reverse sale contract
 * [ZestBloom Lockbox](https://github.com/ZestBloom/lockbox) Lock token A with token B
 * [ZestBloom Relay](https://github.com/ZestBloom/relay) Smart relay
+* [KotH](https://github.com/ZestBloom/koth) Multi token bidding toy program
 * *next*
