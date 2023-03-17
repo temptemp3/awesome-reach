@@ -55,5 +55,5 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [Share Manager](https://github.com/cooperativ-labs/share-manager-contract-algorand) Share Manager
 * [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
 * [Free Raffle](https://github.com/nstanford5/raffle-free) Free NfT Raffle
-* [Free Raffle (Grid)](https://github.com/temptemp3/raffle-free/blob/master/interface.rsh) Grid ready free raffle
+* [Free Raffle for Grid App](https://github.com/temptemp3/raffle-free/blob/master/interface.rsh) Grid ready free raffle
 * *next*
