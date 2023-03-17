@@ -2,6 +2,13 @@
 
 List of alphabetic awesome reach opensource repos, and learning exercises and challenges.
 
+## learning
+
+* [quickstart](https://docs.reach.sh/quickstart/)
+* [tutorial](https://docs.reach.sh/tut/) 
+* Vault
+* NFT Raffle
+
 ## opensource
 
 * [0xAuction](https://github.com/Apostrophe-Corp/0xAuction/tree/beta/src/contracts) Auction for 0xAuction platform
@@ -42,14 +49,3 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [Share Manager](https://github.com/cooperativ-labs/share-manager-contract-algorand) Share Manager
 * [NFT Bridge](https://github.com/cooperativ-labs/share-manager-contract-algorand) ETH-ALGO NFT Bridge
 * *next*
-
-## learning
-
-* [quickstart](https://docs.reach.sh/quickstart/)
-* [tutorial](https://docs.reach.sh/tut/) 
-* Vault
-* NFT Raffle
-
-
-
-
