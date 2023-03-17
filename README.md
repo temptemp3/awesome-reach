@@ -32,4 +32,5 @@ List of alphabetic awesome reach opensource repos.
 * [Alloy DAO](https://github.com/reach-sh/alloy-smart-contracts/tree/main/grants/alloy-dao) DAO building block, proposals
 * [Cometa Staking](https://github.com/MetaLabsOG/cometa-lm-contract) Synthetix staking contract
 * [NFT Lootbox Sale](https://github.com/MetaLabsOG/algorand-nft-sale) NFT Lootbox Sale Generator
+* [Gashapon](https://github.com/reach-sh/alloy-smart-contracts/blob/main/gashapon/index.rsh) Shuffle like NFT gumball machine
 * *next*
