@@ -40,7 +40,7 @@ List of alphabetic awesome reach opensource repos, and learning exercises and ch
 * [ZestBloom Burn](https://github.com/ZestBloom/burn) Burn contract
 * [ZestBloom Lockbox](https://github.com/ZestBloom/lockbox) Lock token A with token B
 * [ZestBloom Offer](https://github.com/ZestBloom/offer) Offer contract
-* [ZestBloom Oracle](https://github.com/ZestBloom/oracle/settings) Price oracle
+* [ZestBloom Oracle](https://github.com/ZestBloom/oracle) Price oracle
 * [ZestBloom Relay](https://github.com/ZestBloom/relay) Smart relay
 * [ZestBloom Reverse Sale Calcs](https://github.com/ZestBloom/reverse-floor-calcs) Some calculations for reverse sale contract
 * [ZestBloom Reverse Sale](https://github.com/ZestBloom/reverse) Traditional and decreasing sale contract available on [ZestBloom Marketplace](https://zestbloom.com/marketplace/)
