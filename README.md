@@ -27,4 +27,6 @@ List of alphabetic awesome reach opensource repos.
 * [GRID](https://github.com/ZestBloom/grid-cid) Smart reference with counter
 * [Vesting](https://github.com/ZestBloom/vesting) Vesting contract
 * [Vest](https://github.com/ZestBloom/vest) Vesting contract
+* [Dice Floor](https://github.com/ZestBloom/dice-floor) Shuffle like contrct using in AlienTourism and Archirand NFT shuffle event
+* [Dice](https://github.com/ZestBloom/dice) Shuffle like contrct using in AlienTourism and Archirand NFT shuffle event
 * *next*
