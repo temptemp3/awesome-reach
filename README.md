@@ -31,4 +31,5 @@ List of alphabetic awesome reach opensource repos.
 * [ZestBloom Reverse Sale](https://github.com/ZestBloom/reverse) Traditional and decreasing sale contract available on [ZestBloom Marketplace](https://zestbloom.com/marketplace/)
 * [Alloy DAO](https://github.com/reach-sh/alloy-smart-contracts/tree/main/grants/alloy-dao) DAO building block, proposals
 * [Cometa Staking](https://github.com/MetaLabsOG/cometa-lm-contract) Synthetix staking contract
+* [NFT Lootbox Sale](https://github.com/MetaLabsOG/algorand-nft-sale) NFT Lootbox Sale Generator
 * *next*
